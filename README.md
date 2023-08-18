@@ -98,7 +98,7 @@ Scripts are a newer, lighter way to build Hummingbot strategies in Python, which
 
 ## Contributions
 
-FintraDao belongs to its community, so we welcome contributions! Please review these [guidelines](./CONTRIBUTING.md) first.
+FintraDao belongs to its community, so we welcome contributions! 
 
 To have your pull request merged into the codebase, submit a on our Snapshot. Note that you will need 1 HBOT in your Ethereum wallet to submit a Pull Request Proposal. 
 
