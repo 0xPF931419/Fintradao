@@ -1,10 +1,10 @@
-# Hummingbot Source Code
+# FintraDao Source Code
 
-This folder contains the main source code for Hummingbot.
+This folder contains the main source code for FintraDao.
 
 ## Project Breakdown
 ```
-hummingbot
+FintraDao
 ├── client                         # CLI related files
 ├── core 
 │   ├── cpp                        # high performance data types written in .cpp
