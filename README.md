@@ -97,10 +97,10 @@ Scripts are a newer, lighter way to build Hummingbot strategies in Python, which
 
 
 ## Contributions
-
+1
 FintraDao belongs to its community, so we welcome contributions! 
 
-To have your pull request merged into the codebase, submit a on our Snapshot. Note that you will need 1 HBOT in your Ethereum wallet to submit a Pull Request Proposal. 
+To have your pull request merged into the codebase, submit a on our Snapshot. Note that you will need 1 FGT in your BSC wallet to submit a Pull Request Proposal. 
 
 ## Legal
 
