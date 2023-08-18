@@ -15,10 +15,7 @@ This code is free and publicly available under the Apache 2.0 open source licens
 Help us **democratize high-frequency trading** and make powerful trading algorithms accessible to everyone in the world!
 
 
-## Quick Links
 
-* [Docs](https://docs.fintradao.io/home/): Check out the official fintraDao documentation
-* [FAQs](https://docs.fintradao.io/home/): Answers to all your burning questions
 
 
 
@@ -88,17 +85,15 @@ Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which cas
 
 We provide customizable strategy templates for core trading strategies that users can configure, extend, and run. Hummingbot Foundation maintains three **CORE** strategies:
 
-* [Pure Market Making](https://docs.hummingbot.org/strategies/pure-market-making/): Our original single-pair market making strategy
-* [Cross Exchange Market Making](https://docs.hummingbot.org/strategies/cross-exchange-market-making/): Provide liquidity while hedging filled orders on another exchange
-* [AMM Arbitrage](https://docs.hummingbot.org/strategies/amm-arbitrage/): Exploits price differences between AMM and SPOT exchanges
+* [Pure Market Making]: Our original single-pair market making strategy
+* [Cross Exchange Market Making]: Provide liquidity while hedging filled orders on another exchange
+* [AMM Arbitrage]: Exploits price differences between AMM and SPOT exchanges
 
-**CORE** strategies are selected via HBOT voting through quarterly [Polls](https://docs.hummingbot.org/governance/polls/). In addition, the codebase includes **COMMUNITY** strategies that are maintained by individuals or firms in the community. See the [Hummingbot documentation](https://docs.hummingbot.org/strategies) for all strategies supported.
-
+**CORE** strategies are selected via  voting through quarterly. In addition, the codebase includes **COMMUNITY** strategies that are maintained by individuals or firms in the community.
 ### Scripts
 
 Scripts are a newer, lighter way to build Hummingbot strategies in Python, which let you modify the script's code and re-run it to apply the changes without exiting the Hummingbot interface or re-compiling the code.
 
-See the [Scripts](https://docs.hummingbot.org/scripts/) section in the documentation for more info, or check out the [/scripts](https://github.com/hummingbot/hummingbot/tree/master/scripts) folder for all Script examples included in the codebase.
 
 
 ## Contributions
