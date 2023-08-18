@@ -46,7 +46,7 @@ Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which cas
  [Quickswap](https://docs.fintradao.io/home/) | AMM DEX |
  [TraderJoe](https://docs.fintradao.io/home/) | AMM DEX |
  [dYdX](https://docs.fintradao.io/home/) | PERP DEX |
- [AltMarkets](https://docs.fintradao.io/home/ | SPOT CEX |
+ [AltMarkets](https://docs.fintradao.io/home/) | SPOT CEX |
  [BTC-Markets](https://docs.fintradao.io/home/) | SPOT CEX |
  [Binance US](https://docs.fintradao.io/home/) | SPOT CEX |
  [BitGet](https://docs.fintradao.io/home/) | PERP CEX |
