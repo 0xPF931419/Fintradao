@@ -36,51 +36,51 @@ Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which cas
 |Exchange| Exhchange Type |  | |
 |------|----------|------|-------------|
  [Binance](https://docs.fintradao.io/home/) | SPOT CEX |
- [Binance Futures](https://docs.hummingbot.org/exchanges/binance-perpetual/) | PERP CEX | 
- [Uniswap](https://docs.hummingbot.org/exchanges/uniswap/) | AMM DEX |
- [KuCoin](https://docs.hummingbot.org/exchanges/kucoin/) | SPOT CEX | 
- [KuCoin Perpetual](https://docs.hummingbot.org/exchanges/kucoin-perpetual/) | PERP CEX | 
- [Gate.io](https://docs.hummingbot.org/exchanges/gate-io/) | SPOT CEX | 
- [Gate.io Perpetual](https://docs.hummingbot.org/exchanges/gate-io-perpetual/) | PERP CEX | 
- [AscendEx](https://docs.hummingbot.org/exchanges/ascend-ex/) | SPOT CEX | 
- [Quickswap](https://docs.hummingbot.org/exchanges/quickswap/) | AMM DEX |
- [TraderJoe](https://docs.hummingbot.org/exchanges/traderjoe/) | AMM DEX |
- [dYdX](https://dydx.exchange/) | PERP DEX |
- [AltMarkets](https://docs.hummingbot.org/exchanges/altmarkets/) | SPOT CEX |
- [BTC-Markets](https://docs.hummingbot.org/exchanges/btc-markets/) | SPOT CEX |
- [Binance US](https://docs.hummingbot.org/exchanges/binance-us/) | SPOT CEX |
- [BitGet](https://docs.hummingbot.org/exchanges/bitget-perpetual/) | PERP CEX |
- [Bit.com](https://docs.hummingbot.org/exchanges/bit-com) | PERP CEX |
- [BitMart](https://docs.hummingbot.org/exchanges/bitmart/) | SPOT CEX |
- [Bitfinex](https://docs.hummingbot.org/exchanges/bitfinex/) | SPOT CEX |
- [Bitmex](https://docs.hummingbot.org/exchanges/bitmex/) | SPOT CEX |
- [Bitmex (perp](https://docs.hummingbot.org/exchanges/bitmex-perpetual/) | SPOT CEX |
- [Bittrex](https://docs.hummingbot.org/exchanges/bittrex/) | SPOT CEX |
- [Bybit](https://docs.hummingbot.org/exchanges/bybit/) | SPOT CEX |
- [Bybit (perp)](https://docs.hummingbot.org/exchanges/bitmex-perpetual/) | PERP CEX |
- [Coinbase](https://docs.hummingbot.org/exchanges/coinbase/) | SPOT CEX |
- [Defira](https://docs.hummingbot.org/exchanges/defira/) | AMM DEX |
- [Dexalot](https://docs.hummingbot.org/exchanges/dexalot/) | CLOB DEX |
- [HitBTC](https://docs.hummingbot.org/exchanges/hitbtc/) | SPOT CEX |
- [Huobi](https://docs.hummingbot.org/exchanges/huobi/) | SPOT CEX |
- [Injective](https://docs.hummingbot.org/exchanges/injective/) | CLOB DEX |
- [Kraken](https://docs.hummingbot.org/exchanges/kraken/) | SPOT CEX |
- [Loopring](https://docs.hummingbot.org/exchanges/loopring/) | SPOT DEX |
- [MEXC](https://docs.hummingbot.org/exchanges/mexc/) | SPOT CEX |
- [Mad Meerkat](https://docs.hummingbot.org/exchanges/mad-meerkat/) | SPOT DEX |
- [NDAX](https://docs.hummingbot.org/exchanges/ndax/) | SPOT DEX |
- [OKX](https://docs.hummingbot.org/exchanges/okx/) | SPOT CEX |
- [OpenOcean](https://docs.hummingbot.org/exchanges/openocean/) | AMM DEX |
- [Pancakeswap](https://docs.hummingbot.org/exchanges/pancakeswap/) | AMM DEX |
- [Pangolin](https://docs.hummingbot.org/exchanges/pangolin/) | AMM DEX |
- [Perpetual Protocol](https://docs.hummingbot.org/exchanges/perp/) | PERP DEX |
- [Phemex Perpetual](https://docs.hummingbot.org/exchanges/perp/) | PERP CEX |
- [Polkadex](https://docs.hummingbot.org/exchanges/polkadex/) | SPOT DEX |
- [Ref Finance](https://docs.hummingbot.org/exchanges/ref/) | SPOT DEX |
- [Sushiswap](https://docs.hummingbot.org/exchanges/sushiswap/) | AMM DEX |
- [Tinyman](https://docs.hummingbot.org/exchanges/tinyman/) | SPOT DEX |
- [VVS Finance](https://docs.hummingbot.org/exchanges/vvs/) | AMM DEX |
- [XSWAP](https://docs.hummingbot.org/exchanges/xswap/) | AMM DEX |
+ [Binance Futures](https://docs.fintradao.io/home/) | PERP CEX | 
+ [Uniswap](https://docs.fintradao.io/home/) | AMM DEX |
+ [KuCoin](https://docs.fintradao.io/home/) | SPOT CEX | 
+ [KuCoin Perpetual](https://docs.fintradao.io/home/) | PERP CEX | 
+ [Gate.io](https://docs.fintradao.io/home/) | SPOT CEX | 
+ [Gate.io Perpetual](https://docs.fintradao.io/home/) | PERP CEX | 
+ [AscendEx](https://docs.fintradao.io/home/) | SPOT CEX | 
+ [Quickswap](https://docs.fintradao.io/home/) | AMM DEX |
+ [TraderJoe](https://docs.fintradao.io/home/) | AMM DEX |
+ [dYdX](https://docs.fintradao.io/home/) | PERP DEX |
+ [AltMarkets](https://docs.fintradao.io/home/ | SPOT CEX |
+ [BTC-Markets](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Binance US](https://docs.fintradao.io/home/) | SPOT CEX |
+ [BitGet](https://docs.fintradao.io/home/) | PERP CEX |
+ [Bit.com](https://docs.fintradao.io/home/) | PERP CEX |
+ [BitMart](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Bitfinex](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Bitmex](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Bitmex (perp](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Bittrex](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Bybit](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Bybit (perp)](https://docs.fintradao.io/home/) | PERP CEX |
+ [Coinbase](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Defira](https://docs.fintradao.io/home/) | AMM DEX |
+ [Dexalot](https://docs.fintradao.io/home/) | CLOB DEX |
+ [HitBTC](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Huobi](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Injective](https://docs.fintradao.io/home/) | CLOB DEX |
+ [Kraken](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Loopring](https://docs.fintradao.io/home/) | SPOT DEX |
+ [MEXC](https://docs.fintradao.io/home/) | SPOT CEX |
+ [Mad Meerkat](https://docs.fintradao.io/home/) | SPOT DEX |
+ [NDAX](https://docs.fintradao.io/home/ | SPOT DEX |
+ [OKX](https://docs.fintradao.io/home/) | SPOT CEX |
+ [OpenOcean](https://docs.fintradao.io/home/) | AMM DEX |
+ [Pancakeswap](https://docs.fintradao.io/home/) | AMM DEX |
+ [Pangolin](https://docs.fintradao.io/home/) | AMM DEX |
+ [Perpetual Protocol](https://docs.fintradao.io/home/) | PERP DEX |
+ [Phemex Perpetual](https://docs.fintradao.io/home/) | PERP CEX |
+ [Polkadex](https://docs.fintradao.io/home/) | SPOT DEX |
+ [Ref Finance](https://docs.fintradao.io/home/) | SPOT DEX |
+ [Sushiswap](https://docs.fintradao.io/home/) | AMM DEX |
+ [Tinyman](https://docs.fintradao.io/home/) | SPOT DEX |
+ [VVS Finance](https://docs.fintradao.io/home/) | AMM DEX |
+ [XSWAP](https://docs.fintradao.io/home/) | AMM DEX |
 
 
 
