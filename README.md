@@ -1,12 +1,11 @@
-![FintraDao](https://ibb.co/jJMFQCK)
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/74tGcfW/Fd1.png" alt="Fd1" border="0"></a>
 ----
 
 FintraDao is an open source  framework that helps you build automated trading strategies, or **bots** that run on cryptocurrency exchanges.
 
 This code is free and publicly available under the Apache 2.0 open source license!
 
-## Why FintradDao?
+## Why FintraDao?
 
 * **Both CEX and DEX connectors**: Our bots supports connectors to centralized exchanges like Binance and KuCoin, as well as decentralized exchanges like Uniswap and PancakeSwap on various blockchains (Ethereum, BNB Chain, etc).
 * **Community-contributed strategies**: The bot community has added many customizable templates for market making, arbitrage, and other algo trading strategies.
@@ -18,19 +17,11 @@ Help us **democratize high-frequency trading** and make powerful trading algorit
 
 ## Quick Links
 
-* [Docs](https://docs.hummingbot.org): Check out the official Hummingbot documentation
-* [Installation](https://hummingbot.org/installation/): Install Hummingbot on various platforms
-* [FAQs](https://hummingbot.org/faq/): Answers to all your burning questions
-* [Botcamp](https://hummingbot.org/botcamp/): Learn how build your own custom HFT strategy in Hummingbot with our hands-on bootcamp!
-* [HBOT](https://hummingbot.org/hbot/): Learn how you can decide how this codebase evolves by voting with HBOT tokens 
+* [Docs](https://docs.fintradao.io/home/): Check out the official fintraDao documentation
+* [FAQs](https://docs.fintradao.io/home/): Answers to all your burning questions
 
-## Community
 
-* [Newsletter](https://hummingbot.substack.com): Get our monthly newletter whenever we ship a new release
-* [Discord](https://discord.gg/hummingbot): The main gathering spot for the global Hummingbot community
-* [YouTube](https://www.youtube.com/c/hummingbot): Videos that teach you how to get the most of of Hummingbot
-* [Twitter](https://twitter.com/_hummingbot): Get the latest announcements about Hummingbot
-* [Snapshot](https://snapshot.org/#/hbot-prp.eth): Participate in monthly polls that decide which components should be prioritized and included
+
 
 ## Exchange Connectors
 
@@ -42,57 +33,56 @@ Hummingbot connectors standardize trading logic and order types across different
 
 Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which case user assets are stored on the blockchain and trading is performed via wallet addresses.
 
-| Tier | Exchange | Type | Signup code |
+|Exchange| Exhchange Type |  | |
 |------|----------|------|-------------|
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=GOLD&color=yellow) | [Binance](https://docs.hummingbot.org/exchanges/binance/) | SPOT CEX | [FQQNNGCD](https://www.binance.com/en/register?ref=FQQNNGCD)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=GOLD&color=yellow) | [Binance Futures](https://docs.hummingbot.org/exchanges/binance-perpetual/) | PERP CEX | [hummingbot](https://www.binance.com/en/futures/ref?code=hummingbot)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=GOLD&color=yellow) | [Uniswap](https://docs.hummingbot.org/exchanges/uniswap/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [KuCoin](https://docs.hummingbot.org/exchanges/kucoin/) | SPOT CEX | [272KvRf](https://www.kucoin.com/ucenter/signup?rcode=272KvRf)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [KuCoin Perpetual](https://docs.hummingbot.org/exchanges/kucoin-perpetual/) | PERP CEX | [272KvRf](https://www.kucoin.com/ucenter/signup?rcode=272KvRf)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [Gate.io](https://docs.hummingbot.org/exchanges/gate-io/) | SPOT CEX | [5868285](https://www.gate.io/signup/5868285)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [Gate.io Perpetual](https://docs.hummingbot.org/exchanges/gate-io-perpetual/) | PERP CEX | [5868285](https://www.gate.io/signup/5868285)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [AscendEx](https://docs.hummingbot.org/exchanges/ascend-ex/) | SPOT CEX | [UEIXNXKW](https://ascendex.com/register?inviteCode=UEIXNXKW)
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [Quickswap](https://docs.hummingbot.org/exchanges/quickswap/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [TraderJoe](https://docs.hummingbot.org/exchanges/traderjoe/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=SILVER&color=silver) | [dYdX](https://dydx.exchange/) | PERP DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [AltMarkets](https://docs.hummingbot.org/exchanges/altmarkets/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [BTC-Markets](https://docs.hummingbot.org/exchanges/btc-markets/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Binance US](https://docs.hummingbot.org/exchanges/binance-us/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [BitGet](https://docs.hummingbot.org/exchanges/bitget-perpetual/) | PERP CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bit.com](https://docs.hummingbot.org/exchanges/bit-com) | PERP CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [BitMart](https://docs.hummingbot.org/exchanges/bitmart/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bitfinex](https://docs.hummingbot.org/exchanges/bitfinex/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bitmex](https://docs.hummingbot.org/exchanges/bitmex/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bitmex (perp](https://docs.hummingbot.org/exchanges/bitmex-perpetual/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bittrex](https://docs.hummingbot.org/exchanges/bittrex/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bybit](https://docs.hummingbot.org/exchanges/bybit/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Bybit (perp)](https://docs.hummingbot.org/exchanges/bitmex-perpetual/) | PERP CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Coinbase](https://docs.hummingbot.org/exchanges/coinbase/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Defira](https://docs.hummingbot.org/exchanges/defira/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Dexalot](https://docs.hummingbot.org/exchanges/dexalot/) | CLOB DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [HitBTC](https://docs.hummingbot.org/exchanges/hitbtc/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Huobi](https://docs.hummingbot.org/exchanges/huobi/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Injective](https://docs.hummingbot.org/exchanges/injective/) | CLOB DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Kraken](https://docs.hummingbot.org/exchanges/kraken/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Loopring](https://docs.hummingbot.org/exchanges/loopring/) | SPOT DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [MEXC](https://docs.hummingbot.org/exchanges/mexc/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Mad Meerkat](https://docs.hummingbot.org/exchanges/mad-meerkat/) | SPOT DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [NDAX](https://docs.hummingbot.org/exchanges/ndax/) | SPOT DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [OKX](https://docs.hummingbot.org/exchanges/okx/) | SPOT CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [OpenOcean](https://docs.hummingbot.org/exchanges/openocean/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Pancakeswap](https://docs.hummingbot.org/exchanges/pancakeswap/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Pangolin](https://docs.hummingbot.org/exchanges/pangolin/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Perpetual Protocol](https://docs.hummingbot.org/exchanges/perp/) | PERP DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Phemex Perpetual](https://docs.hummingbot.org/exchanges/perp/) | PERP CEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Polkadex](https://docs.hummingbot.org/exchanges/polkadex/) | SPOT DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Ref Finance](https://docs.hummingbot.org/exchanges/ref/) | SPOT DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Sushiswap](https://docs.hummingbot.org/exchanges/sushiswap/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [Tinyman](https://docs.hummingbot.org/exchanges/tinyman/) | SPOT DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [VVS Finance](https://docs.hummingbot.org/exchanges/vvs/) | AMM DEX |
-| ![](https://img.shields.io/static/v1?label=Hummingbot&message=BRONZE&color=green) | [XSWAP](https://docs.hummingbot.org/exchanges/xswap/) | AMM DEX |
+ [Binance](https://docs.hummingbot.org/exchanges/binance/) | SPOT CEX |
+ [Binance Futures](https://docs.hummingbot.org/exchanges/binance-perpetual/) | PERP CEX | 
+ [Uniswap](https://docs.hummingbot.org/exchanges/uniswap/) | AMM DEX |
+ [KuCoin](https://docs.hummingbot.org/exchanges/kucoin/) | SPOT CEX | 
+ [KuCoin Perpetual](https://docs.hummingbot.org/exchanges/kucoin-perpetual/) | PERP CEX | 
+ [Gate.io](https://docs.hummingbot.org/exchanges/gate-io/) | SPOT CEX | 
+ [Gate.io Perpetual](https://docs.hummingbot.org/exchanges/gate-io-perpetual/) | PERP CEX | 
+ [AscendEx](https://docs.hummingbot.org/exchanges/ascend-ex/) | SPOT CEX | 
+ [Quickswap](https://docs.hummingbot.org/exchanges/quickswap/) | AMM DEX |
+ [TraderJoe](https://docs.hummingbot.org/exchanges/traderjoe/) | AMM DEX |
+ [dYdX](https://dydx.exchange/) | PERP DEX |
+ [AltMarkets](https://docs.hummingbot.org/exchanges/altmarkets/) | SPOT CEX |
+ [BTC-Markets](https://docs.hummingbot.org/exchanges/btc-markets/) | SPOT CEX |
+ [Binance US](https://docs.hummingbot.org/exchanges/binance-us/) | SPOT CEX |
+ [BitGet](https://docs.hummingbot.org/exchanges/bitget-perpetual/) | PERP CEX |
+ [Bit.com](https://docs.hummingbot.org/exchanges/bit-com) | PERP CEX |
+ [BitMart](https://docs.hummingbot.org/exchanges/bitmart/) | SPOT CEX |
+ [Bitfinex](https://docs.hummingbot.org/exchanges/bitfinex/) | SPOT CEX |
+ [Bitmex](https://docs.hummingbot.org/exchanges/bitmex/) | SPOT CEX |
+ [Bitmex (perp](https://docs.hummingbot.org/exchanges/bitmex-perpetual/) | SPOT CEX |
+ [Bittrex](https://docs.hummingbot.org/exchanges/bittrex/) | SPOT CEX |
+ [Bybit](https://docs.hummingbot.org/exchanges/bybit/) | SPOT CEX |
+ [Bybit (perp)](https://docs.hummingbot.org/exchanges/bitmex-perpetual/) | PERP CEX |
+ [Coinbase](https://docs.hummingbot.org/exchanges/coinbase/) | SPOT CEX |
+ [Defira](https://docs.hummingbot.org/exchanges/defira/) | AMM DEX |
+ [Dexalot](https://docs.hummingbot.org/exchanges/dexalot/) | CLOB DEX |
+ [HitBTC](https://docs.hummingbot.org/exchanges/hitbtc/) | SPOT CEX |
+ [Huobi](https://docs.hummingbot.org/exchanges/huobi/) | SPOT CEX |
+ [Injective](https://docs.hummingbot.org/exchanges/injective/) | CLOB DEX |
+ [Kraken](https://docs.hummingbot.org/exchanges/kraken/) | SPOT CEX |
+ [Loopring](https://docs.hummingbot.org/exchanges/loopring/) | SPOT DEX |
+ [MEXC](https://docs.hummingbot.org/exchanges/mexc/) | SPOT CEX |
+ [Mad Meerkat](https://docs.hummingbot.org/exchanges/mad-meerkat/) | SPOT DEX |
+ [NDAX](https://docs.hummingbot.org/exchanges/ndax/) | SPOT DEX |
+ [OKX](https://docs.hummingbot.org/exchanges/okx/) | SPOT CEX |
+ [OpenOcean](https://docs.hummingbot.org/exchanges/openocean/) | AMM DEX |
+ [Pancakeswap](https://docs.hummingbot.org/exchanges/pancakeswap/) | AMM DEX |
+ [Pangolin](https://docs.hummingbot.org/exchanges/pangolin/) | AMM DEX |
+ [Perpetual Protocol](https://docs.hummingbot.org/exchanges/perp/) | PERP DEX |
+ [Phemex Perpetual](https://docs.hummingbot.org/exchanges/perp/) | PERP CEX |
+ [Polkadex](https://docs.hummingbot.org/exchanges/polkadex/) | SPOT DEX |
+ [Ref Finance](https://docs.hummingbot.org/exchanges/ref/) | SPOT DEX |
+ [Sushiswap](https://docs.hummingbot.org/exchanges/sushiswap/) | AMM DEX |
+ [Tinyman](https://docs.hummingbot.org/exchanges/tinyman/) | SPOT DEX |
+ [VVS Finance](https://docs.hummingbot.org/exchanges/vvs/) | AMM DEX |
+ [XSWAP](https://docs.hummingbot.org/exchanges/xswap/) | AMM DEX |
 
 
-Quarterly [Polls](https://docs.hummingbot.org/governance/polls/) allow the Hummingbot community to vote using HBOT tokens to decide which exchanges should be certified GOLD or SILVER, which means that they are maintained and continually improved by Hummingbot Foundation. In addition, the codebase includes BRONZE exchange connectors that are maintained by community members. See the [Hummingbot documentation](https://docs.hummingbot.org/exchanges) for all exchanges supported.
 
 ## Strategies and Scripts
 
