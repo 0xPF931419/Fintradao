@@ -65,7 +65,7 @@ Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which cas
  [Loopring](https://docs.fintradao.io/home/) | SPOT DEX |
  [MEXC](https://docs.fintradao.io/home/) | SPOT CEX |
  [Mad Meerkat](https://docs.fintradao.io/home/) | SPOT DEX |
- [NDAX](https://docs.fintradao.io/home/ | SPOT DEX |
+ [NDAX](https://docs.fintradao.io/home/) | SPOT DEX |
  [OKX](https://docs.fintradao.io/home/) | SPOT CEX |
  [OpenOcean](https://docs.fintradao.io/home/) | AMM DEX |
  [Pancakeswap](https://docs.fintradao.io/home/) | AMM DEX |
