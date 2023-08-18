@@ -114,25 +114,14 @@ Scripts are a newer, lighter way to build Hummingbot strategies in Python, which
 
 See the [Scripts](https://docs.hummingbot.org/scripts/) section in the documentation for more info, or check out the [/scripts](https://github.com/hummingbot/hummingbot/tree/master/scripts) folder for all Script examples included in the codebase.
 
-## Other Hummingbot Repos
-
-* [Hummingbot Site](https://github.com/hummingbot/hummingbot-site): Official documentation for Hummingbot - we welcome contributions here too!
-* [Hummingbot Project Management](https://github.com/hummingbot/pm): Agendas and recordings of regular Hummingbot developer and community calls
-* [Awesome Hummingbot](https://github.com/hummingbot/awesome-hummingbot): All the Hummingbot links
-* [Hummingbot StreamLit Apps](https://github.com/hummingbot/streamlit-apps): Hummingbot-related StreamLit data apps and dashboards
-* [Community Tools](https://github.com/hummingbot/community-tools): Community contributed resources related to Hummingbot
-* [Brokers](https://github.com/hummingbot/brokers): Different brokers that can be used to communicate with multiple instances of Hummingbot
-* [Deploy Examples](https://github.com/hummingbot/deploy-examples): Deploy Hummingbot in various configurations with Docker
-* [Remote Client](https://github.com/hummingbot/hbot-remote-client-py): A remote client for Hummingbot in Python
-* [Dashboard](https://github.com/hummingbot/dashboard): Hummingbot Dashboard community project  
 
 ## Contributions
 
-Hummingbot belongs to its community, so we welcome contributions! Please review these [guidelines](./CONTRIBUTING.md) first.
+FintraDao belongs to its community, so we welcome contributions! Please review these [guidelines](./CONTRIBUTING.md) first.
 
-To have your pull request merged into the codebase, submit a [Pull Request Proposal](https://snapshot.org/#/hbot-prp.eth) on our Snapshot. Note that you will need 1 HBOT in your Ethereum wallet to submit a Pull Request Proposal. See [HBOT](https://hummingbot.org/hbot) for more information.
+To have your pull request merged into the codebase, submit a on our Snapshot. Note that you will need 1 HBOT in your Ethereum wallet to submit a Pull Request Proposal. 
 
 ## Legal
 
-* **License**: Hummingbot is licensed under [Apache 2.0](./LICENSE).
-* **Data collection**: read important information regarding [Hummingbot Data Collection](./DATA_COLLECTION.md).
+* **License**: FintraDAo is licensed under [Apache 2.0](./LICENSE).
+
