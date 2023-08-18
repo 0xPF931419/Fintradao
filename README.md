@@ -35,7 +35,7 @@ Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which cas
 
 |Exchange| Exhchange Type |  | |
 |------|----------|------|-------------|
- [Binance](https://docs.hummingbot.org/exchanges/binance/) | SPOT CEX |
+ [Binance](https://docs.fintradao.io/home/) | SPOT CEX |
  [Binance Futures](https://docs.hummingbot.org/exchanges/binance-perpetual/) | PERP CEX | 
  [Uniswap](https://docs.hummingbot.org/exchanges/uniswap/) | AMM DEX |
  [KuCoin](https://docs.hummingbot.org/exchanges/kucoin/) | SPOT CEX | 
