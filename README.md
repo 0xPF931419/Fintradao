@@ -83,7 +83,7 @@ Exchanges may be centralized (**CEX**), or decentralized (**DEX**), in which cas
 
 ## Strategies and Scripts
 
-We provide customizable strategy templates for core trading strategies that users can configure, extend, and run. Hummingbot Foundation maintains three **CORE** strategies:
+We provide customizable strategy templates for core trading strategies that users can configure, extend, and run. FintraDao Foundation maintains three **CORE** strategies:
 
 * [Pure Market Making]: Our original single-pair market making strategy
 * [Cross Exchange Market Making]: Provide liquidity while hedging filled orders on another exchange
@@ -92,7 +92,7 @@ We provide customizable strategy templates for core trading strategies that user
 **CORE** strategies are selected via  voting through quarterly. In addition, the codebase includes **COMMUNITY** strategies that are maintained by individuals or firms in the community.
 ### Scripts
 
-Scripts are a newer, lighter way to build FintraDao strategies in Python, which let you modify the script's code and re-run it to apply the changes without exiting the Hummingbot interface or re-compiling the code.
+Scripts are a newer, lighter way to build strategies in Python, which let you modify the script's code and re-run it to apply the changes without exiting the interface or re-compiling the code.
 
 
 
