@@ -92,7 +92,7 @@ We provide customizable strategy templates for core trading strategies that user
 **CORE** strategies are selected via  voting through quarterly. In addition, the codebase includes **COMMUNITY** strategies that are maintained by individuals or firms in the community.
 ### Scripts
 
-Scripts are a newer, lighter way to build Hummingbot strategies in Python, which let you modify the script's code and re-run it to apply the changes without exiting the Hummingbot interface or re-compiling the code.
+Scripts are a newer, lighter way to build FintraDao strategies in Python, which let you modify the script's code and re-run it to apply the changes without exiting the Hummingbot interface or re-compiling the code.
 
 
 
